@@ -1,2 +1,2 @@
 # MATLAB_CRN_MC
-##Monte Carlo sampling of Cosmogenic Radionuclide parameters for paleo erosion rates written with Emily Zawacki in 2021
+##Monte Carlo sampling of Cosmogenic Radionuclide parameters for paleo erosion rates written with Emily Zawacki in 2021. See more in her PhD dissertation
